@@ -1,9 +1,8 @@
 # hello-world
 C4Rd0's hello-world repo
 
-Yet Another "hello-world's repo"? Maybe...
+Non c'è niente di interessante qui sopra :-)
 
-I create that to become familiar with Git and GitHub's stuff.
-Mostly Java, vanilla JavaScript and related experiments.
+E' solo il mio repository personale per sperimentare con Git e GitHub.
 
-Byez ;-)
+Principalmente esperimenti di Java, JavaScript e tecnologie collegate.
